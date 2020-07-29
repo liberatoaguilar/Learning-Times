@@ -77,8 +77,8 @@ This is a collection of code snippits that are too simple for their own repo, bu
 - The user enters a file path and the files contents are shown rapidly.
 - Works best on plain text files.
 
-![images](https://raw.githubusercontent.com/liberatoaguilar/Learning-Times/master/Images/speedread-1.png)
-![images](https://raw.githubusercontent.com/liberatoaguilar/Learning-Times/master/Images/speedread-2.png)
+![images](https://raw.githubusercontent.com/liberatoaguilar/Learning-Times/master/Images/SpeedRead-1.png)
+![images](https://raw.githubusercontent.com/liberatoaguilar/Learning-Times/master/Images/SpeedRead-2.png)
 
 ### Motivation.py
 
@@ -124,24 +124,7 @@ This is a collection of code snippits that are too simple for their own repo, bu
 - This program takes in a string and generates an ASCII heart from that string.
 - Ex:  
 
-    velovelovelo         elovelovelov    
-  ovelovelovelovel     velovelovelovelo  
-lovelovelovelovelovelovelovelovelovelovel
-ovelovelovelovelovelovelovelovelovelovelo
-velovelovelovelovelovelovelovelovelovelov
-elovelovelovelovelovelovelovelovelovelove
-lovelovelovelovelovelovelovelovelovelovel
- velovelovelovelovelovelovelovelovelovel
-   ovelovelovelovelovelovelovelovelove   
-      ovelovelovelovelovelovelovelo      
-      velovelovelovelovelovelovelov      
-         velovelovelovelovelovel         
-         elovelovelovelovelovelo         
-            elovelovelovelove            
-            lovelovelovelovel            
-               lovelovelov               
-               ovelovelove               
-                  ovelo
+![images](https://raw.githubusercontent.com/liberatoaguilar/Learning-Times/master/Images/heart-1.png)
 
 ### Regexp.js
 
