@@ -46,6 +46,8 @@ This is a collection of code snippits that are too simple for their own repo, bu
 - One of my first tkinter GUI projects.
 - Google.py is a widget that just has a search bar and a search button that searches google for anything typed.
 
+![image](https://raw.githubusercontent.com/liberatoaguilar/Learning-Times/master/Images/google-1.png)
+
 ### Pomodoro.py
 
 - Another tkinter project that was developed to help me focus.
@@ -53,12 +55,19 @@ This is a collection of code snippits that are too simple for their own repo, bu
 - A song is supposed to play in the background during the timing period and the computer says "Break Finished" after each break.
 - I was playing around with the "os" Python package.
 
+![images](https://raw.githubusercontent.com/liberatoaguilar/Learning-Times/master/Images/pomodoro-1.png)
+![images](https://raw.githubusercontent.com/liberatoaguilar/Learning-Times/master/Images/pomodoro-2.png)
+![images](https://raw.githubusercontent.com/liberatoaguilar/Learning-Times/master/Images/pomodoro-3.png)
+
 ### Timer.py
 
 - Timer.py is pretty much self-explanatory. It is a simple timer app (in minutes).
 - This is also a tkinter GUI project that also uses the "os" package.
 - The code is somewhat of a base for pomodoro.py.
 - The app makes a sound and quits after it is done.
+
+![images](https://raw.githubusercontent.com/liberatoaguilar/Learning-Times/master/Images/timer-1.png)
+![images](https://raw.githubusercontent.com/liberatoaguilar/Learning-Times/master/Images/timer-2.png)
 
 ### SpeedRead.py
 
@@ -68,11 +77,16 @@ This is a collection of code snippits that are too simple for their own repo, bu
 - The user enters a file path and the files contents are shown rapidly.
 - Works best on plain text files.
 
+![images](https://raw.githubusercontent.com/liberatoaguilar/Learning-Times/master/Images/speedread-1.png)
+![images](https://raw.githubusercontent.com/liberatoaguilar/Learning-Times/master/Images/speedread-2.png)
+
 ### Motivation.py
 
 - One of my first web-scraping projects with BeautifulSoup.
 - Took motivational quotes from the website motivationalquotes101.com, which is sadly no longer in use, rendering this app useless.
 - An image of what it looked like in 2017 is shown below.
+
+![images](https://raw.githubusercontent.com/liberatoaguilar/Learning-Times/master/Images/Motivation-1.png)
 
 ### Stocks.py/Stockex.py
 
@@ -81,6 +95,8 @@ This is a collection of code snippits that are too simple for their own repo, bu
 - This program no longer works because marketwatch.com now has captcha requirements.
 - Stockex.py is the example GUI usage of Stocks.py with the "amzn" stock.
 
+![images](https://raw.githubusercontent.com/liberatoaguilar/Learning-Times/master/Images/stocks-1.png)
+
 ## 2018
 
 ### Notes.py
@@ -88,6 +104,9 @@ This is a collection of code snippits that are too simple for their own repo, bu
 - A simple note-taking app that I created to be able to use in school.
 - Supports markdown (H1, H2, H3, Bold, bullets).
 - First time using key bindings in a tkinter app (Command-i to toggle markdown).
+
+![images](https://raw.githubusercontent.com/liberatoaguilar/Learning-Times/master/Images/notes-1.png)
+![images](https://raw.githubusercontent.com/liberatoaguilar/Learning-Times/master/Images/notes-2.png)
 
 ## 2020
 
